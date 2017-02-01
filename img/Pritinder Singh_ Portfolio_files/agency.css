@@ -42,9 +42,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
-  text-transform: capitalize;;
-
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 .img-centered {
   margin: 0 auto;
@@ -283,7 +283,7 @@ section {
   padding: 100px 0;
 }
 section h2.section-heading {
-  font-size: 50px;
+  font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
