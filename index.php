@@ -395,7 +395,7 @@
                                    any opportunity to improve or exercise the skills I had. Currently I am into iOS development because it is
                                    the strongest market in the world of mobile applications. In the future,
                                    I hope to make multiple application that will benefit society and hopefully make life a little easier </p>
-                                <button  type="button" id="resumeBtn" class="btn btn-info btn-lg">View Resume <a href="Resume.pdf"></a></button><br>
+                                <a href="Resume.pdf" id="resumeBtn" class="btn btn-info btn-lg">View Resume </a><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
